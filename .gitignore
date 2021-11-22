@@ -1,1 +1,4 @@
-tmp/todo.txt 
+tmp/todo.txt
+tmp/*
+*.txt 
+ 
