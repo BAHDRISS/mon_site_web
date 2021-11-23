@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 tmp/todo.txt
+=======
+>>>>>>> BRANCH_MERG
 tmp/*
 *.txt
-*.xml  
+*.xml 
+  
  
 
 =======
