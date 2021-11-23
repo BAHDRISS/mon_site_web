@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 tmp/*
 *.txt
 *.xml 
   
  
 
+=======
+tmp/todo.txt 
+>>>>>>> c3b1f8f (ajout fichier gitignore)
